@@ -377,7 +377,7 @@ Private Sub Form_Load()
     If HeaderInFile > 0 Then
        HeaderExists = True
        TempStartData$ = Mid(filechunk$, HeaderInFile)
-       Mtempfile = "5£TEMP£5.$$$"
+       Mtempfile = "5Â£TEMPÂ£5.$$$"
        Kill Mtempfile
        Open Mtempfile For Binary As #6
        Put #6, , TempStartData$

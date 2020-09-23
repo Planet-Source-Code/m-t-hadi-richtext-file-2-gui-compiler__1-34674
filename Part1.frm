@@ -95,7 +95,7 @@ Begin VB.Form Form1
       Appearance      =   0  'Flat
       BackColor       =   &H80000005&
       BackStyle       =   0  'Transparent
-      Caption         =   "© 2002- Take IT Eazy"
+      Caption         =   "Â© 2002- Take IT Eazy"
       BeginProperty Font 
          Name            =   "MS Sans Serif"
          Size            =   8.25
